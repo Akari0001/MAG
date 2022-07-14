@@ -1,6 +1,6 @@
 module.exports = {
   //bot token
-  token: "OTkwNzcxMTQyMjI0NjY2NjQ2.GhvGGI.loMBbnK3mXw_nG2zGrN8HSBb5yUaNq2cZoVuZ0",
+  token: "",
   //bot prefix
   prefix: ">",
 
@@ -25,7 +25,7 @@ module.exports = {
   },
 
   //mongodb url
-  mongoDB: "mongodb+srv://izzie:izzie@dandb.w50zysz.mongodb.net/?retryWrites=true&w=majority",
+  mongoDB: "",
 
   //repo url
   src: "",
